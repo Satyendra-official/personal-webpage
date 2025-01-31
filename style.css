@@ -51,6 +51,14 @@
     border-radius: 30px;
   }
 
+@media (min-width: 576px) {
+    .satya {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
   .description{
     font-size: 40px;
   }
